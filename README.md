@@ -1,21 +1,6 @@
 # Task Manager with PHP and MySQL
 Simple Task Manager web app with PHP and MySQL.
 
-[Complete TASK MANAGER Tutorial Playlist](https://www.youtube.com/watch?v=1rl36zxqZZw&list=PLBLPjjQlnVXXygeLVmd9mGNtgrHaBOFos)
-
-
-
-## Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
-
-## Donate
-
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
 
 
 ## Technologies Used
@@ -73,10 +58,10 @@ define('SITEURL', 'http://localhost/task-manager/'); //Update the home URL of th
 6. Now, Open the project in your browser. It should run perfectly.
 
 ## For Sponsor or Projects Enquiry
-1. Email - hi@vijaythapa.com
+1. Email - ch.sameerwaseem@gmail.com
 
 ## Follow Me on
-1. LinkedIn - [vijaythapa](https://www.linkedin.com/in/vijaythapa/ "Vijay Thapa on LinkedIn")
-2. Instagram - [@vijaythapa.code](https://www.instagram/vijaythapa.code/ "Vijay Thapa on Instagram")
-3. Facebook - [@thevijaythapa](https://www.facebook.com/thevijaythapa/ "Vijay Thapa on Facebook")
-5. Twitter - [@thevijaythapa](https://www.twitter.com/thevijaythapa "Vijay Thapa on Twitter")
+1. LinkedIn - (https://www.linkedin.com/in/sameer/ "Sameer WAseem on LinkedIn")
+2. Instagram - (https://www.instagram/ch_sameer/ "Sameer Waseem on Instagram")
+3. Facebook - (https://www.facebook.com/Sameer/ "Sameer Waseem on Facebook")
+5. Twitter - (https://www.twitter.com/ch_sameer "Sameer Waseem on Twitter")
